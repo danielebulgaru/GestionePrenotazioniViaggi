@@ -11,3 +11,5 @@ public class GestionePrenotazioniApplication {
 	}
 
 }
+
+// Link Diagramma E-R https://drawsql.app/draw?t=887ce47d-cf97-4dfa-9d6a-0da1d7271edd&view=1
